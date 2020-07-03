@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <StartupObject></StartupObject>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Views\ConsultMedecin\Index.cshtml" />
+    <None Include="Views\Frequentation\AfficherAge.cshtml" />
+    <None Include="Views\Frequentation\AfficherAgent.cshtml" />
+    <None Include="Views\Frequentation\AfficherCert.cshtml" />
+    <None Include="Views\Frequentation\AfficherJDE.cshtml" />
+    <None Include="Views\Frequentation\AfficherMed.cshtml" />
+    <None Include="Views\Frequentation\AfficherMedecin.cshtml" />
+    <None Include="Views\Frequentation\AfficherNumero.cshtml" />
+    <None Include="Views\Frequentation\AfficherPrest.cshtml" />
+    <None Include="Views\Frequentation\AfficherTypeSTE.cshtml" />
+    <None Include="Views\Frequentation\Fin.cshtml" />
+    <None Include="Views\Frequentation\Index.cshtml" />
+    <None Include="Views\Frequentation\Interne.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="3.0.0" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.0.0" />
+    <PackageReference Include="Oracle.ManagedDataAccess.Core" Version="2.19.60" />
+    <PackageReference Include="System.Data.OleDb" Version="4.6.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,1144 @@
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.json
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.exe
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.deps.json
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.json
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.dev.json
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.pdb
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.pdb
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\AspNetCoreCurrentRequestContext.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csprojAssemblyReference.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.Manifest.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.xml
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.MvcApplicationPartsAssemblyInfo.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfoInputs.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfo.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.input.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.output.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorCoreGenerate.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Index.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Configurer.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Medecin\Index.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\Index.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\Index.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficheUser.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AjoutUser.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Supprimer.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cache
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cs
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.Views.pdb
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CopyComplete
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.dll
+E:\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.exe
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.deps.json
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.json
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.dev.json
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\AspNetCoreCurrentRequestContext.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.Manifest.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.xml
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfoInputs.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfo.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.input.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.output.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorCoreGenerate.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AfficheAct.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AjouterAct.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\DeleteAct.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Index.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Addcertificat.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Index.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\UpdateCert.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAg.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAgent.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherJDE.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMed.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMedecin.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNumero.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPrest.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherTypeSTE.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Index.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Configurer.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Parametre.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AffichePrest.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AjouterPrest.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\DeletePrest.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\Index.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AddSte.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AfficheSte.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\DeleteSte.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\Index.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AddUser.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficheUser.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\DeleteUser.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cs
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CopyComplete
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csprojAssemblyReference.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\NPOI.OOXML.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\NPOI.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\NPOI.OpenXml4Net.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\NPOI.OpenXmlFormats.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\bin\Debug\netcoreapp3.0\ICSharpCode.SharpZipLib.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sitraka\source\projet\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.exe
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.deps.json
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.json
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.dev.json
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\AspNetCoreCurrentRequestContext.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csprojAssemblyReference.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.Manifest.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.xml
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfoInputs.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfo.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.input.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.output.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorCoreGenerate.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AfficheAct.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AjouterAct.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\DeleteAct.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Erreur.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Addcertificat.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\UpdateCert.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAg.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAgent.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherJDE.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMed.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMedecin.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNumero.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherTypeSTE.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Fin.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Interne.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Configurer.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Parametre.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Infirmerie\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AffichePrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AjouterPrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\DeletePrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\AvoirRapport.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AddSte.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AfficheSte.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\DeleteSte.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AddUser.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficheUser.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cache
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cs
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CopyComplete
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sipakely m\Desktop\STAGE DSI\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.exe
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.deps.json
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.json
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.dev.json
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Data.OleDb.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csprojAssemblyReference.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.Manifest.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.xml
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfoInputs.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfo.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.input.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.output.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorCoreGenerate.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AfficheAct.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AjouterAct.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\DeleteAct.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Erreur.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Addcertificat.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\UpdateCert.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\ConsultMedecin\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\AfficherTable.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAgent.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherCert.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherJDE.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMed.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMedecin.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNumero.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherTypeSTE.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Fin.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Interne.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Configurer.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Parametre.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Infirmerie\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AffichePrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AjouterPrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\DeletePrest.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\AfficheRapport.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AddSte.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AfficheSte.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\DeleteSte.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserCertificat\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserFrequentation\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserInfirmerie\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AddUser.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficherPrestUser.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficheUser.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cache
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CopyComplete
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sipakely m\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAge.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\AfficheFamille.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNum.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPat.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\GetFreq.cshtml.g.cs
+C:\Users\sipakely m\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\UpdateFrequentation.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.exe
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.deps.json
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.json
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.dev.json
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.pdb
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Data.OleDb.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csprojAssemblyReference.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.Manifest.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.xml
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfoInputs.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfo.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.input.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.output.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorCoreGenerate.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AfficheAct.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AjouterAct.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\DeleteAct.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Erreur.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Addcertificat.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\AfficheFamille.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\UpdateCert.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\ConsultMedecin\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\AfficherTable.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAg.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAge.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAgent.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherCert.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherJDE.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMed.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMedecin.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNum.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNumero.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPat.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPrest.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherTypeSTE.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Fin.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\GetFreq.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Interne.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\UpdateFrequentation.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Configurer.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Parametre.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Infirmerie\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AffichePrest.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AjouterPrest.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\DeletePrest.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\AfficheRapport.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AddSte.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AfficheSte.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\DeleteSte.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserCertificat\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserFrequentation\GetFreq.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserFrequentation\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserInfirmerie\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AddUser.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficherPrestUser.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficheUser.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\DeleteUser.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cache
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cs
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.Views.pdb
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CopyComplete
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.dll
+C:\Users\sitraka\Desktop\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.pdb
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.json
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.exe
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.deps.json
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.json
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.dev.json
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.pdb
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.pdb
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Data.OleDb.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csprojAssemblyReference.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.Manifest.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.xml
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.MvcApplicationPartsAssemblyInfo.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfoInputs.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfo.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.input.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.output.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorCoreGenerate.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AfficheAct.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AjouterAct.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\DeleteAct.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Erreur.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Addcertificat.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\AfficheFamille.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\UpdateCert.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\ConsultMedecin\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\AfficherTable.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAg.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAge.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAgent.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherCert.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherJDE.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMed.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMedecin.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNum.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNumero.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPat.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPrest.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherTypeSTE.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Fin.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\GetFreq.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Interne.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\UpdateFrequentation.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Configurer.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Parametre.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Infirmerie\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AffichePrest.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AjouterPrest.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\DeletePrest.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\AfficheRapport.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AddSte.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AfficheSte.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\DeleteSte.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserCertificat\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserFrequentation\GetFreq.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserFrequentation\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserInfirmerie\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AddUser.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficherPrestUser.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficheUser.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\DeleteUser.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cache
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cs
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.Views.pdb
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CopyComplete
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.dll
+F:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.pdb
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.dll
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.pdb
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csprojAssemblyReference.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfoInputs.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.AssemblyInfo.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CoreCompileInputs.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.MvcApplicationPartsAssemblyInfo.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorAssemblyInfo.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.input.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.TagHelpers.output.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorCoreGenerate.cache
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\appsettings.json
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.exe
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.deps.json
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.json
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.runtimeconfig.dev.json
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.pdb
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\StageL2.Views.pdb
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\NuGet.Frameworks.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\Oracle.ManagedDataAccess.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Convention.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Hosting.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.Runtime.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Data.OleDb.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Diagnostics.PerformanceCounter.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\stagiaire2020\StageL2\StageL2\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AfficheAct.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\AjouterAct.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\DeleteAct.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Erreur.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Activite\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Addcertificat.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\AfficheFamille.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Certificat\UpdateCert.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\ConsultMedecin\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\AfficherTable.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Excel\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAg.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAge.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherAgent.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherCert.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherJDE.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMed.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherMedecin.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNum.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherNumero.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPat.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherPrest.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\AfficherTypeSTE.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Fin.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\GetFreq.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\Interne.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Frequentation\UpdateFrequentation.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Configurer.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Parametre.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Infirmerie\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AffichePrest.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\AjouterPrest.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\DeletePrest.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Prestation\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\AfficheRapport.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Rapport\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AddSte.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\AfficheSte.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\DeleteSte.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Societe\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserCertificat\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserFrequentation\GetFreq.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserFrequentation\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\UserInfirmerie\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AddUser.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficherPrestUser.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\AfficheUser.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\DeleteUser.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\Utilisateur\Index.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.RazorTargetAssemblyInfo.cs
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.Views.pdb
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.csproj.CopyComplete
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.Manifest.cache
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\staticwebassets\StageL2.StaticWebAssets.xml
+D:\stagiaire2020\StageL2\StageL2\obj\Debug\netcoreapp3.0\StageL2.genruntimeconfig.cache

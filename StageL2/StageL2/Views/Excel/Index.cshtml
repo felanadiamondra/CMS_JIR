@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+<form method="post" action="~/Excel/AjoutDataOracle">
+    <label>Nom du fichier :</label>
+    <input type="text" name="nomFich" placeholder="C:\\nomfichier.xlsx" /><br />
+    <label>Nom de la feuille :</label>
+    <input type="text" name="nomFeuil" placeholder="" />
+    <input type="submit" value="Charger" />
+</form>
+<!--Notification ajout-->
+@if (TempData["text"] != null)
+{
+    <script>
+        alert('@TempData["text"]');
+    </script>
+}

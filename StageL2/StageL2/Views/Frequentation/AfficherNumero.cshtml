@@ -1,0 +1,13 @@
+﻿@using StageL2.Views.Frequentation
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "Affiche numero patient";
+    var codeMed = ViewBag.Message;
+    FonctionFreq n = new FonctionFreq();
+    OracleDataReader sql = n.GetNum(codeMed);
+    sql.Read();
+}
+
+
+<label class="">N° d'entrée :</label>
+<input type="number" name="numero" value="@sql.GetOracleValue(0)" class="form-control text-center" readonly />

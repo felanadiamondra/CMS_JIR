@@ -1,0 +1,76 @@
+﻿@using StageL2.Views.Prestation
+@using Oracle.ManagedDataAccess.Client
+@using System.Data
+@{
+    ViewData["Title"] = "Prestation";
+    var code = ViewBag.Message;
+
+    FonctionPrest act = new FonctionPrest();
+    OracleDataReader drAct = act.ListeAct();
+
+    FonctionPrest prest = new FonctionPrest();
+    OracleDataReader sql = prest.AfficherPrest(code);
+    sql.Read();
+}
+
+<div class="container">
+    <div class="col-sm-12">
+        <div class="panel panel-default">
+            <div class="panel-heading" id="modifier"><h3 class="panel-title">Modifier une prestation</h3></div>
+            <div class="panel-body">
+                <div class=" form">
+                    <form class="cmxform form-horizontal tasi-form" method="post" action="~/Prestation/ModifierPrest">
+                        <div class="form-group ">
+                            <label for="date" class="control-label col-lg-2">Date saisie</label>
+                            <div class="col-lg-9">
+                                <input class="form-control " id="date" name="date" type="text" value="@sql.GetOracleValue(5)" readonly>
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label for="code" class="control-label col-lg-2">Code</label>
+                            <div class="col-lg-9">
+                                <input class=" form-control" id="code" name="code" type="text" readonly value="@sql.GetOracleValue(0)">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label for="libelle" class="control-label col-lg-2">Libellé</label>
+                            <div class="col-lg-9">
+                                <input class=" form-control" id="libelle" name="libelle" type="text" value="@sql.GetString(1)">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label for="codeSA" class="control-label col-lg-2">Activité</label>
+                            <div class="col-lg-9">
+                                <select class="form-control" name="act">
+                                    <option value="@sql.GetOracleValue(2)">@sql.GetOracleValue(2)</option>
+                                    @while (drAct.Read())
+                                    {
+                                <option value="@drAct.GetOracleValue(0)">@drAct.GetOracleValue(0) - @drAct.GetOracleValue(1)</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label for="puInt" class="control-label col-lg-2">Prix interne</label>
+                            <div class="col-lg-9">
+                                <input class="form-control " id="puInt" name="puInt" type="text" value="@sql.GetOracleValue(3)">
+                            </div>
+                        </div>
+                        <div class="form-group ">
+                            <label for="puExt" class="control-label col-lg-2">Prix externe</label>
+                            <div class="col-lg-9">
+                                <input class="form-control " id="puExt" name="puExt" type="text" value="@sql.GetOracleValue(4)">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-lg-offset-2 col-lg-10">
+                                <input type="submit" value="Enregistrer" class="btn btn-success ">
+                                <a href="~/Prestation/Index"><input type="button" value="Annuler" class="btn btn-default waves-effect waves-lignt"></a>
+                            </div>
+                        </div>
+                    </form>
+                </div> <!-- .form -->
+            </div> <!-- panel-body -->
+        </div> <!-- panel -->
+    </div> <!-- col -->
+</div><!-- container -->

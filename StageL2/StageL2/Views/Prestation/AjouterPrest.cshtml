@@ -1,0 +1,63 @@
+﻿@using StageL2.Views.Prestation
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "Ajout Prestation";
+    FonctionPrest Act = new FonctionPrest();
+    OracleDataReader drAct = Act.ListeAct();
+}
+
+        <div class="container">
+            <div class="col-sm-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading" id="ajout"><h3 class="panel-title">Ajouter une nouvelle prestation</h3></div>
+                    <div class="panel-body">
+                        <div class=" form">
+                            <form class="cmxform form-horizontal tasi-form" action="~/Prestation/AjoutPrest" method="post">
+                                <div class="form-group ">
+                                    <label for="code" class="control-label col-lg-2" id="prest">Code</label>
+                                    <div class="col-lg-9">
+                                        <input class=" form-control" id="code" name="code" type="text" required="">
+                                    </div>
+                                </div>
+                                <div class="form-group ">
+                                    <label for="libelle" class="control-label col-lg-2">Désignation</label>
+                                    <div class="col-lg-9">
+                                        <input class=" form-control" id="libelle" name="libelle" type="text" required="">
+                                    </div>
+                                </div>
+                                <div class="form-group ">
+                                    <label class="control-label col-lg-2">Activité</label>
+                                    <div class="col-lg-9">
+                                        <select class="form-control" name="act" required="">
+                                            <option value="#">Code activité - Libellé</option>
+                                            @while (drAct.Read())
+                                            {
+                                                <option value="@drAct.GetOracleValue(0)">@drAct.GetOracleValue(0) - @drAct.GetOracleValue(1)</option>
+                                            }
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group ">
+                                    <label class="control-label col-lg-2">Prix interne</label>
+                                    <div class="col-lg-9">
+                                        <input class="form-control " name="puInt" type="text">
+                                    </div>
+                                </div>
+                                <div class="form-group ">
+                                    <label class="control-label col-lg-2">Prix externe</label>
+                                    <div class="col-lg-9">
+                                        <input class="form-control " name="puExt" type="text">
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <div class="col-lg-offset-2 col-lg-10">
+                                        <input type="submit" value="Enregistrer" class="btn btn-success ">
+                                        <a href="~/Prestation/Index"><input type="button" value="Annuler" class="btn btn-default waves-effect waves-lignt"></a>
+                                    </div>
+                                </div>
+                            </form>
+                        </div> <!-- form -->
+                    </div> <!-- panel-body -->
+                </div> <!-- panel -->
+            </div> <!-- col -->
+        </div><!-- container AJOUT -->

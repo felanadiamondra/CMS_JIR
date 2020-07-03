@@ -1,0 +1,15 @@
+﻿@using StageL2.Views.Frequentation
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "AfficherAg";
+}
+@{
+
+    var datenais = ViewBag.Message;
+    FonctionFreq ag = new FonctionFreq();
+    OracleDataReader dr = ag.CalculAge(datenais);
+    dr.Read();
+}
+
+    <input type="number" class="form-control" name="age" value="@dr.GetOracleValue(0)" readonly>
+

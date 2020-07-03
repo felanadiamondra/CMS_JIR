@@ -1,0 +1,19 @@
+﻿@using Oracle.ManagedDataAccess.Client
+@using StageL2.Views.Frequentation
+@{
+    ViewData["Title"] = "AfficherPrest";
+    var codeAct = ViewBag.Message;
+    FonctionFreq p = new FonctionFreq();
+    OracleDataReader drPrest = p.ListePrest(codeAct);
+}
+
+<label>Prestation :</label>
+<select class="form-control" name="prest" onchange="ListeMed(this.value)">
+    <option value="#"></option>
+    @while (drPrest.Read())
+    {
+        <option value="@drPrest.GetOracleValue(0)">@drPrest.GetOracleValue(1)</option>
+    }
+</select>
+
+

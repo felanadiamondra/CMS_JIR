@@ -1,0 +1,31 @@
+﻿@using StageL2.Views.Frequentation
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "AfficherTypeSTE";
+    var codeSTE = ViewBag.Message;
+    FonctionFreq ag = new FonctionFreq();
+    OracleDataReader sql = ag.GetType(codeSTE);
+    sql.Read();
+}
+
+<div class="col-md-2">
+    <label>Type :</label>
+    <input type="text" name="typeSte" value="@sql.GetOracleValue(0)" class="form-control text-danger" readonly/>
+</div>
+<div class="col-md-2">
+    <label>Matricule :</label>
+    <input type="text" class="form-control" name="matr" placeholder="" onchange="AfficheJDE(this.value)" required=""/>
+</div>
+<div class="col-md-3">
+    <label>S.A :</label>
+    <input type="text" class="form-control" name="SA" id="sa" placeholder="Section analytique" required=""/>
+</div>
+<div class="col-md-2">
+    <label>Statut :</label>
+    <select class="form-control" name="etab" required="">
+        <option value="#"></option>
+        <option value="0">Actif</option>
+        <option value="4">Retraité</option>
+        <option value="5">Décédé</option>
+    </select>
+</div>

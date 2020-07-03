@@ -1,0 +1,221 @@
+﻿@using StageL2.Views.Rapport
+@using Oracle.ManagedDataAccess.Client
+@{
+    FonctionRapport r = new FonctionRapport();
+    Int32[] dr = r.RapportParAnnee();
+
+    FonctionRapport A = new FonctionRapport();
+    Int32[] drA = A.RapportGetAnnee();
+}
+
+<!-- RAPPORT -->
+<script src="~/js/highchart/highcharts.js"></script>
+<script src="~/js/highchart/highcharts-more.js"></script>
+<script src="~/js/highchart/dumbbell.js"></script>
+<script src="~/js/highchart/lollipop.js"></script>
+<script src="~/js/highchart/exporting.js"></script>
+<script src="~/js/highchart/export-data.js"></script>
+<style>
+    canvas {
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+    }
+</style>
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
+<body class="fixed-left">
+    <!-- Begin page -->
+    <div id="wrapper">
+
+        <!---------------------------------------------------------------------------------- TOP MENU ----------------------------------------------------------------------------------->
+        <div class="topbar">
+            <!-- LOGO -->
+            <div class="topbar-left">
+                <div class="text-center">
+                    <a href="#" class="logo"><i class="md md-terrain"></i> <span>CMS JIRAMA </span></a>
+                </div>
+            </div>
+
+            <div class="navbar navbar-default" role="navigation">
+                <div class="container">
+                    <div class="">
+                        <!-- Collapse sidebar menu -->
+                        <div class="pull-left">
+                            <button class="button-menu-mobile open-left">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <span class="clearfix"></span>
+                        </div>
+
+                        <!--Full screen or not-->
+                        <ul class="nav navbar-nav navbar-right pull-right">
+                            <li class="hidden-xs">
+                                <a href="#" id="btn-fullscreen" class="waves-effect waves-light"><i class="md md-crop-free"></i></a>
+                            </li>
+                            <li><a href="~/Home/Index"><i class="md md-settings-power"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!--------------------------------------------------------------------------------- FIN TOP MENU------------------------------------------------------------------------------------------------------->
+        <!---------------------------------------------------------------------------------- MENU GAUCHE --------------------------------------------------------------------------------------------->
+
+        <div class="left side-menu">
+            <div class="sidebar-inner slimscrollleft">
+                <div class="user-details">
+                    <div class="pull-left">
+                        <a href="http://www.Jirama.mg" target="_blank" title="Consulter la page web de Jirama"><img src="~/bootstrap/images/logoJirama.jpg" class="thumb-md img-circle"></a>
+                    </div>
+                </div>
+                <!--- Divider -->
+                <div id="sidebar-menu">
+                    <ul>
+                        <li>
+                            <a href="~/Rapport/Index" class="waves-effect"><i class="md md-account-balance"></i><span> Rapport </span></a>
+                        </li>
+                        <li>
+                            <a href="~/Utilisateur/Index" class="waves-effect"><i class="ion ion-android-friends"></i><span> Utilisateur </span></a>
+                        </li>
+                        <li>
+                            <a href="~/Societe/Index" class="waves-effect"><i class="md md-contacts"></i><span> Société </span></a>
+                        </li>
+                        <li>
+                            <a href="~/Prestation/Index" class="waves-effect"><i class="md md-event-note"></i><span> Prestation </span></a>
+                        </li>
+                        <li>
+                            <a href="~/Activite/Index" class="waves-effect"><i class="md md-add-box"></i><span> Activité </span></a>
+                        </li>
+                        <li>
+                            <a href="~/Certificat/Index" class="waves-effect"><i class="md md-assignment"></i><span> Certificat </span></a>
+                        </li>
+                        <li>
+                            <a href="~/Frequentation/Index" class="waves-effect"><i class="md md-add-to-photos"></i><span> Fréquentation </span></a>
+                        </li>
+                        <li>
+                            <a href="~/Infirmerie/Index" class="waves-effect"><i class="md md-gamepad"></i><span> Infirmerie </span></a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+        <!------------------------------------------------------------------------------- FIN MENU GAUCHE --------------------------------------------------------------------------------->
+        <!----------------------------------------------------------------------------------- CONTENU --------------------------------------------------------------------------------------->
+
+        <div class="content-page">
+            <div class="content">
+                <div class="container">
+
+                    <!-- Page-Title -->
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h4 class="pull-left page-title">Rapport</h4>
+                            <ol class="breadcrumb pull-right">
+                                <li>@System.DateTime.Today.ToLongDateString()</li>
+                                <li>@System.DateTime.Now.ToShortTimeString()</li>
+                            </ol>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <!-- Left sidebar -->
+                        <div class="col-md-12 col-lg-12">
+                            <div class="panel-body p-t-0">
+                                <form class="cmxform form-horizontal tasi-form" action="~/Rapport/AfficheRapport" methode="post">
+                                    <div class="form-group ">
+                                        <div class="row">
+                                            <div class="col-md-3">
+                                                <input class="form-control" name="anneeR" type="text" placeholder="Veuillez entrer l'année de recherche..." @*onchange="RapporterChart(this.value)"*@ required="">
+                                            </div>
+                                            <div class="col-md-2">
+                                                <input class="btn btn-success" type="submit" value="Vallider">
+                                            </div>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+
+                            <div class="panel panel-default m-t-0">
+                                <div class="panel-body p-t-30">
+                                    <div class="wrapper">
+                                        <div id="container" style="min-width: 310px; max-width: 900px; height: 400px; margin: 0 auto"></div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div> <!-- col-md-12 col-lg-12 -->
+                    </div> <!-- row -->
+                </div> <!-- container -->
+            </div> <!-- content page-->
+
+            <footer class="footer text-right">
+                2019 © CMS Jirama.
+            </footer>
+
+        </div> <!-- end content page -->
+    </div> <!-- END wrapper -->
+    <!--------------------------------------------------------------------------------------- FIN CONTENU ---------------------------------------------------------------------------------->
+    <script type="text/javascript">
+        // Build the chart
+        Highcharts.chart('container', {
+            chart: {
+                plotBackgroundColor: null,
+                plotBorderWidth: null,
+                plotShadow: false,
+                type: 'pie'
+            },
+            title: {
+                text: 'Fréquentations de la Centre Médico-Social JIIRAMA'
+            },
+            tooltip: {
+                pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+            },
+            plotOptions: {
+                pie: {
+                    allowPointSelect: true,
+                    cursor: 'pointer',
+                    dataLabels: {
+                        enabled: false
+                    },
+                    showInLegend: true
+                }
+            },
+            series: [{
+                name: 'Population',
+                colorByPoint: true,
+                data: [{
+                    name: '@drA[0]',
+                    y: @dr[0],
+                    sliced: true,
+                    selected: true
+                }, {
+                    name: '@drA[1]',
+                    y: @dr[1],
+                }, {
+                    name: '@drA[2]',
+                    y: @dr[2],
+                }, {
+                    name: '@drA[3]',
+                    y: @dr[3],
+                }, {
+                    name: '@drA[4]',
+                    y: @dr[4],
+                }, {
+                    name: '@drA[5]',
+                    y: @dr[5],
+                }]
+            }]
+        });
+    </script>
+</body>
+<!------------------------------------------------------------------------------------ NOTIFICATION ---------------------------------------------------------------------------------------->
+@if (TempData["text"] != null)
+{
+    <script>
+        alert('@TempData["text"]');
+    </script>
+}
+
+<i class="fas fa-cat"></i>

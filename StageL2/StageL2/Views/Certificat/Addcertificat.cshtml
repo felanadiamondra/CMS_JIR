@@ -1,0 +1,142 @@
+﻿
+@{
+    ViewData["Title"] = "Addcertificat";
+}
+
+<div class="row">
+    <!-- Left sidebar -->
+    <div class="col-md-8 col-lg-9">
+        <div class="container">
+            <div class="col-sm-12">
+                <div class="panel panel-default">
+                    <div class="panel-heading" id="ajout"><h3 class="panel-title">Ajout de certificat(s) </h3></div>
+                    <div class="panel-body">
+                        <div class=" form">
+                            <form class="cmxform form-horizontal tasi-form" action="~/Certificat/Ajoutcert" method="post">
+                                <div class="form-group ">
+                                    <div class="row">
+                                        <div class="col-md-1"></div>
+                                        <div class="col-md-2">
+                                            <label class="control-label col-lg-2">Matricule :</label>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <input class=" form-control" name="nvmatr" type="text" placeholder="Nouveau matricule">
+                                        </div>
+                                        <div class="col-md-1"><p class="text-danger text-center"><b><u>ou</u></b></p></div>
+                                        <div class="col-md-3">
+                                            <input class=" form-control" name="matr" type="text" placeholder="Ancien matricule">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group ">
+                                    <div class="row">
+                                        <div class="col-md-1"></div>
+                                        <div class="col-md-2">
+                                            <label class="control-label col-lg-2">Nom :</label>
+                                        </div>
+                                        <div class="col-md-4">
+                                            <input class=" form-control" name="nom" type="text" required="">
+                                        </div>
+                                        <div class="col-md-1">
+                                            <label class="control-label col-lg-2">Type :</label>
+                                        </div>
+                                        <div class="col-md-2">
+                                            <input class=" form-control" name="type" type="number" required="">
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group ">
+                                    <div class="row">
+                                        <div class="col-md-1"></div>
+                                        <div class="col-md-2">
+                                            <label class="control-label col-lg-2"> Certificat :</label>
+                                        </div>
+                                        <div class="col-md-3">
+                                            <select class="form-control" name="certScol" required="">
+                                                <option value="N"> de Scolarité</option>
+                                                <option value='O'>Oui</option>
+                                                <option value='N'>Non</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-md-1"><p class="text-danger text-center"><b><u>et / ou</u></b></p></div>
+                                        <div class="col-md-3">
+                                            <select class="form-control" name="certCelib" required="">
+                                                <option value="N"> de Célibat</option>
+                                                <option value='O'>Oui</option>
+                                                <option value='N'>Non</option>
+                                            </select>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="form-group ">
+                                    <div class="row">
+                                        <div class="col-md-1"></div>
+                                        <div class="col-md-2">
+                                            <label class="control-label col-lg-2">Année :</label>
+                                        </div>
+                                        <div class="col-md-7">
+                                            <input class=" form-control" name="annee" type="text" required="">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="form-group ">
+                                    <div class="row">
+                                        <div class="col-lg-offset-2 col-lg-10">
+                                            <input type="submit" value="Enregistrer" class="btn btn-success ">
+                                            <a href="~/Certificat/Index"><input type="button" value="Annuler" class="btn btn-default waves-effect waves-lignt"></a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </form>
+                        </div> <!-- form -->
+                    </div> <!-- panel-body -->
+                </div> <!-- panel -->
+            </div> <!-- col -->
+        </div><!-- container ajout-->
+    </div> <!-- col-md-8 col-lg-9 -->
+
+    <!-- Right sidebar -->
+    <div class="col-md-4 col-lg-3">
+        <div class="panel panel-default p-0 m-t-20">
+            <div class="panel-group">
+                <div class="panel panel-purple panel-color">
+                    <div class="panel-heading">
+                        <h6 class="panel-title">
+                            <a data-toggle="collapse" href="#agent" class="collapsed" aria-expanded="false">
+                                <i class="fa fa-search"></i> Agent
+                            </a>
+                        </h6>
+                    </div>
+                    <div id="agent" class="panel-collapse collapse">
+                        <div class="panel-body">
+                            <form name="ajax1" class="cmxform form-horizontal tasi-form">
+                                <div class="form-group ">
+                                    <div class="col-lg-12">
+                                        <input class="form-control" name="agent" type="text" placeholder="Entrer Nom / Matricule..." onchange="ListeFamilleJDE(this.value)">
+                                    </div>
+                                </div>
+                            </form>
+                            <div id="affichage1"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <h3 class="panel-title m-t-40">Critères d'ayant droit :</h3>
+        <div class="panel panel-default p-0 p-t-20 m-t-20">
+            <div class="panel-body p-0">
+                <div class="list-group no-border">
+                   <a class="list-group-item no-border"><span class="fa fa-circle text-purple pull-right"></span>Enfant légitime moins de 25 ans</a>
+                    <a class="list-group-item no-border"><span class="fa fa-circle text-pink pull-right"></span>Certificat de scolarité (Enfant)</a>
+                    <a class="list-group-item no-border"><span class="fa fa-circle text-success pull-right"></span>Certificat de célibat (Enfant)</a>
+                </div>
+            </div>
+        </div>
+    </div> <!-- col-md-4 col-lg-3 -->
+</div> <!-- row -->
+
+

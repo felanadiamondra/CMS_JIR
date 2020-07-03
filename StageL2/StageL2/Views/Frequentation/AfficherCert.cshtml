@@ -1,0 +1,22 @@
+﻿@using Oracle.ManagedDataAccess.Client
+@using StageL2.Views.Frequentation;
+@{
+    ViewData["Title"] = "AfficherCert";
+}
+@{
+    var nom = ViewBag.Message;
+    FonctionFreq cert = new FonctionFreq();
+    OracleDataReader dr = cert.GetCertifiact(nom);
+    dr.Read();
+}
+
+<div class="col-md-2">
+    <label>Cert Scol :</label>
+    <input type="text" class="form-control" value="@dr.GetOracleValue(0)" readonly>
+</div>
+
+<div class="col-md-2">
+    <label>Cert Celib :</label>
+    <input type="text" class="form-control" value="@dr.GetOracleValue(1)" readonly>
+</div>
+

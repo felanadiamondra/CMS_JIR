@@ -1,0 +1,22 @@
+﻿@using StageL2.Views.Certificat
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "AfficheFamille";
+    var agent = ViewBag.Message;
+    Fonctioncert ag = new Fonctioncert();
+    OracleDataReader sql = ag.GetAgent(agent);
+    OracleDataReader a = ag.GetAgent(agent);
+}
+
+
+@while (sql.Read())
+{
+    <p><b>Ancien matricule :</b> @sql.GetOracleValue(1) </p>
+    <p><b>Nouveau Matricule :</b> @sql.GetOracleValue(0)</p>
+    <p><b>Nom agent :</b> @sql.GetOracleValue(2) </p>
+    <p><b>Nom famille:</b> @sql.GetOracleValue(3)</p>
+    <p><b>Date naissance :</b> @sql.GetOracleValue(4)</p>
+    <p><b>Age :</b> @sql.GetOracleValue(5)</p>
+    <p class="text-center"><i class="fa fa-circle"></i> </p>
+}
+

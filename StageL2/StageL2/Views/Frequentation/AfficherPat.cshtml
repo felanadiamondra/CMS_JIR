@@ -1,0 +1,34 @@
+﻿@using StageL2.Views.Frequentation
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "AfficherPat";
+    var pat = ViewBag.Message;
+    FonctionFreq m = new FonctionFreq();
+    OracleDataReader sql = m.GetPat(pat);
+
+}
+
+<table id="datatable" class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nom</th>
+     
+
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @while (sql.Read())
+        {
+
+            <tr class="gradeU">
+                <td> @sql.GetOracleValue(0)</td>
+                <td> @sql.GetOracleValue(1)</td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

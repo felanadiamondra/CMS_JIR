@@ -1,0 +1,62 @@
+﻿@{
+    ViewData["Title"] = "Page d'authentification";
+}
+
+
+<div class="wrapper-page">
+    <div class="panel panel-color panel-primary panel-pages">
+        <div class="panel-heading bg-img">
+            <div class="bg-overlay"></div>
+            <h3 class="text-center m-t-10 text-white"> CMS JIRAMA </h3>
+        </div>
+
+
+        <div class="panel-body">
+            <form class="form-horizontal m-t-20" method="post" action="Configurer">
+
+                <div class="alert alert-info alert-dismissable">
+                    <button type="button" class="close" data-dismiss="alert" aria-hidden="true">×</button>
+                    Il faut se connecter en tant qu' <b>Administrateur</b> pour pouvoir faire une modification !
+                </div>
+
+                <div class="form-group ">
+                    <div class="col-xs-12">
+                        <label class="form-control input-lg" name="GROUPE">Administrateur</label>
+                    </div>
+                </div>
+
+                <div class="form-group ">
+                    <div class="col-xs-12">
+                        <input class="form-control input-lg " type="text" name="identifiant" required="" placeholder="Login">
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-xs-12">
+                        <input class="form-control input-lg" type="password" name="mdp" required="" placeholder="Mot de passe">
+                    </div>
+                </div>
+
+                <div class="form-group text-center">
+                    <div class="col-xs-12">
+                        <input class="btn btn-success btn-lg w-lg " type="submit" name="CONNEXION" value="Connexion">
+                    </div>
+                </div>
+
+                <div class="form-group m-t-30">
+                    <div class="col-sm-12 text-center">
+                        <a href="Index"><i class="ion-ios7-arrow-back"></i>  Retour à la page de connexion</a>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+@if (TempData["message"] != null)
+{
+    <script>
+        alert('@TempData["message"]');
+    </script>
+}

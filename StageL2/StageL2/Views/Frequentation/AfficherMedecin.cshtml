@@ -1,0 +1,17 @@
+﻿@using StageL2.Views.Frequentation
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "AfficherMedecin";
+    var med = ViewBag.Message;
+    FonctionFreq m = new FonctionFreq();
+    OracleDataReader sql = m.GetMed(med);
+}
+
+
+@while (sql.Read())
+{
+    <p><b>Code :</b> @sql.GetOracleValue(0) </p>
+    <p><b>Nom :</b> @sql.GetOracleValue(1) </p>
+    <p><b>Code prestation :</b> @sql.GetOracleValue(3)</p>
+    <p class="text-center"><i class="fa fa-circle"></i> </p>
+}

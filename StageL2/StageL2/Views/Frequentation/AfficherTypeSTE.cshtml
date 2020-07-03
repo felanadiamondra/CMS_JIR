@@ -1,0 +1,14 @@
+﻿@using StageL2.Views.Frequentation
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "AfficherTypeSTE";
+    var codeSTE = ViewBag.Message;
+    FonctionFreq ag = new FonctionFreq();
+    OracleDataReader sql = ag.GetType(codeSTE);
+    sql.Read();
+}
+
+<div class="col-md-3">
+    <label>Type :</label>
+    <input type="text" name="typeSte" value="@sql.GetOracleValue(0)" class="form-control text-danger"/>
+</div>

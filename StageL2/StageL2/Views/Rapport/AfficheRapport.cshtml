@@ -1,0 +1,230 @@
+﻿@using StageL2.Views.Rapport
+@using Oracle.ManagedDataAccess.Client
+@{
+    ViewData["Title"] = "Chart Line";
+}
+@{
+    var anneeR = ViewBag.MessageRapport;
+    FonctionRapport rF = new FonctionRapport();
+    Int32[] drF = rF.RapportFemme(anneeR);
+
+    FonctionRapport rH = new FonctionRapport();
+    Int32[] drH = rH.RapportHomme(anneeR);
+
+    FonctionRapport rI = new FonctionRapport();
+    Int32[] drInt = rI.RapportInterne(anneeR);
+
+    FonctionRapport rE = new FonctionRapport();
+    Int32[] drExt = rE.RapportExterne(anneeR);
+
+    FonctionRapport rEnf = new FonctionRapport();
+    Int32[] drEnf = rEnf.RapportEnfant(anneeR);
+
+    FonctionRapport rJeune = new FonctionRapport();
+    Int32[] drJ = rJeune.RapportJeune(anneeR);
+
+    FonctionRapport rAd = new FonctionRapport();
+    Int32[] drA = rAd.RapportAdulte(anneeR);
+}
+
+<!-- CHART -->
+<script src="~/js/chartjs/Chart.min.js"></script>
+<script src="~/js/chartjs/utils.js"></script>
+<style>
+    canvas {
+        -moz-user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+    }
+</style>
+
+
+<!--------------------------------------------------------------------------------------------- CONTENU ----------------------------------------------------------------------------------->
+
+<body class="fixed-left">
+    <!-- Begin page -->
+    <div id="wrapper">
+        <div class="content p-0 m-t-15">
+            <div class="container">
+
+                <!-- Page-Title -->
+                <div class="row">
+                    <div class="col-sm-12">
+                        <a href="~/Rapport/Index"><h4 class="pull-left page-title">/ Rapport</h4></a>
+                        <ol class="breadcrumb pull-right">
+                            <li>@System.DateTime.Today.ToLongDateString()</li>
+                            <li>@System.DateTime.Now.ToShortTimeString()</li>
+                        </ol>
+                    </div>
+                </div>
+
+                <div class="content">
+                    <div class="container">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <div class="content">
+                                    <div class="wrapper">
+                                        <canvas id="canvas"></canvas>
+                                    </div>
+                                    @*<button type="button" class="btn btn-success waves-effect waves-light m-r-5" onclick="print()"><i class="ion-printer"> Imprimer </i></button>*@
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> <!-- end container -->
+        </div> <!-- content -->
+    </div> <!-- END wrapper -->
+    <!--------------------------------------------------------------------------------------- FIN CONTENU ---------------------------------------------------------------------------------->
+    <!--------------------------------------------------------------------------------------- SCRIPT JS ----------------------------------------------------------------------------------->
+
+</body>
+
+
+
+<!------------------------------------------------------------------------------------------- FIN CONTENU ---------------------------------------------------------------------------------->
+
+<script>
+    var MONTHS = ['Janvier', 'Fevrier', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Decembre'];
+    var config = {
+        type: 'line',
+        data: {
+            labels: ['Janvier', 'Fevrier', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Decembre'],
+            datasets: [{
+                backgroundColor: 'red',
+                borderColor: 'red',
+                data: [ @drF[0], @drF[1], @drF[2], @drF[3], @drF[4], @drF[5], @drF[6], @drF[7], @drF[8], @drF[9], @drF[10], @drF[11] ],
+                label: 'Femme',
+                pointStyle: 'rectRounded',
+                pointRadius: 4,
+                pointHoverRadius: 6,
+				pointBorderColor: 'red',
+                fill: false,
+            }, {
+                label: 'Homme',
+                fill: false,
+                backgroundColor: 'DodgerBlue',
+                borderColor: 'DodgerBlue',
+                data: [@drH[0], @drH[1], @drH[2], @drH[3], @drH[4], @drH[5], @drH[6], @drH[7], @drH[8], @drH[9], @drH[10], @drH[11]],
+                pointStyle: 'star',
+                pointRadius: 5,
+                pointHoverRadius: 6,
+                pointBorderColor: 'DodgerBlue'
+			},{
+                label: 'Interne',
+                fill: false,
+                backgroundColor: 'orange',
+                borderColor: 'orange',
+                data: [@drInt[0], @drInt[1], @drInt[2], @drInt[3], @drInt[4], @drInt[5], @drInt[6], @drInt[7], @drInt[8], @drInt[9], @drInt[10], @drInt[11]],
+                pointStyle: 'triangle',
+                pointRadius: 4,
+                pointHoverRadius: 6,
+                pointBorderColor: 'orange'
+            }, {
+                label: 'Externe',
+                fill: false,
+                backgroundColor: 'green',
+                borderColor: 'green',
+                data: [@drExt[0], @drExt[1], @drExt[2], @drExt[3], @drExt[4], @drExt[5], @drExt[6], @drExt[7], @drExt[8], @drExt[9], @drExt[10], @drExt[11]],
+                pointStyle: 'circle',
+                pointRadius: 4,
+                pointHoverRadius: 6,
+                pointBorderColor: 'green'
+            }, {
+                label: 'Enfant < 5 ans',
+                fill: false,
+                backgroundColor: 'Gray',
+                borderColor: 'Gray',
+                data: [ @drEnf[0], @drEnf[1], @drEnf[2], @drEnf[3], @drEnf[4], @drEnf[5], @drEnf[6], @drEnf[7], @drEnf[8], @drEnf[9], @drEnf[10], @drEnf[11]],
+                pointStyle: 'rectRot',
+                pointRadius: 4,
+                pointHoverRadius: 6,
+                pointBorderColor: 'Gray'
+            }, {
+                label: 'Jeune',
+                fill: false,
+                backgroundColor: window.chartColors.purple,
+                borderColor: window.chartColors.purple,
+                data: [@drJ[0], @drJ[1], @drJ[2], @drJ[3], @drJ[4], @drJ[5], @drJ[6], @drJ[7], @drJ[8], @drJ[9], @drJ[10], @drJ[11]],
+                pointStyle: 'rectRot',
+                pointRadius: 4,
+                pointHoverRadius: 6,
+                pointBorderColor: 'purple'
+            }, {
+                label: 'Adulte',
+                fill: false,
+                backgroundColor: 'gold',
+                borderColor: 'gold',
+                data: [@drA[0], @drA[1], @drA[2], @drA[3], @drA[4], @drA[5], @drA[6], @drA[7], @drA[8], @drA[9], @drA[10], @drA[11]],
+                pointStyle: 'rect',
+                pointRadius: 5,
+                pointHoverRadius: 6,
+                pointBorderColor: 'gold'
+            },]
+        },
+        options: {
+            responsive: true,
+            title: {
+                display: true,
+                text: "Récapitulation des fréquentations de l'année : @anneeR "
+            },
+            subtitle: {
+            text: 'Source: @System.DateTime.Today.ToLongDateString() © CMS Jirama.'
+            },
+
+            tooltips: {
+                mode: 'index',
+                intersect: false,
+            },
+            hover: {
+                mode: 'nearest',
+                intersect: true
+            },
+            scales: {
+                xAxes: [{
+                    display: true,
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Mois'
+                    }
+                }],
+                yAxes: [{
+                    display: true,
+                    scaleLabel: {
+                        display: true,
+                        labelString: 'Effectif'
+                    }
+                }]
+            }
+        }
+    };
+
+    window.onload = function () {
+        var ctx = document.getElementById('canvas').getContext('2d');
+        window.myLine = new Chart(ctx, config);
+    };
+</script>
+
+<!-- Imprimer Rapport -->
+<script src="~/js/html2pdf.bundle.js"></script>
+<script>
+     function print() {
+        // Get the element.
+          var element = document.getElementById('canvas');
+        // Generate the PDF.
+         html2pdf().from(element).set({
+             margin: 10,
+             filename: "rapport.pdf",
+             image: {type: 'jpeg', quality: 1},
+             html2canvas: {scale: 10, letterRendering: true},
+             jsPDF: {unit: 'in', format: 'a4', orientation: 'landscape'}
+         }).save();
+     }
+</script>
+
+@if (TempData["text"] != null)
+{
+    <script>
+        alert('@TempData["text"]');
+    </script>
+}
